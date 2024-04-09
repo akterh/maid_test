@@ -35,6 +35,4 @@ $ flutter build appbundle --flavor production --target lib/main_production.dart
 
 _\*TestApp works on iOS, Android._
 Just use the credentials from reqres.in sample for auth
-
-
-
+ I've just tried to show here the pattern I work with . As I'm very busy with another staffs , I made ready it within only 3 hours . Haven't write the test cases also but usually I write test cases in projects for complex features.
